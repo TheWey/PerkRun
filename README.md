@@ -6,7 +6,7 @@ This utility runs PerkTV on Android fully autonomously.
 - Automatic restarting of the video cycle after a preset interval
 - Handling the clearing of the app cache after a preset interval, including a subsequent procedure of rebooting all devices, logging back in, reactivating "low bandwidth mode," and restarting the video cycle
 - Maintaining a web console interface with device screenshots and a detailed event log
-- Randomizing all timing and input coordinates to prevent detection of the use of input software
+- Randomizing all timing and input coordinates to prevent detection of the use of automated input software
 
 ## adb
 This program handles all communication with its connected devices through adb, and the used version is included in the repository for convenience. Feel free to replace this version in the running folder.
