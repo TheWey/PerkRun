@@ -1,0 +1,5 @@
+#!/bin/bash
+
+screen -dm -S perkrun java -jar /PerkRun/PerkRun-v2.0.jar
+sleep 3
+screen -r perkrun

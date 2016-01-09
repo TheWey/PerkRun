@@ -1,0 +1,37 @@
+perkPassword=
+numDevices=5
+autoCacheClearCycles=3
+waitOnCacheClear=false
+rebootOnCacheClear=true
+resetCyclesOnManualOverride=true
+deepModeActivated=true
+updateScreenshotsOnReset=true
+resetTime(hrs)=2
+resetExtraWait(mins)=5
+maxResetVar(mins)=30
+maxLogLength(lines)=100
+
+//Device 1
+name=
+type=
+serial=
+
+//Device 2
+name=
+type=
+serial=
+
+//Device 3
+name=
+type=
+serial=
+
+//Device 4
+name=
+type=
+serial=
+
+//Device 5
+name=
+type=
+serial=
