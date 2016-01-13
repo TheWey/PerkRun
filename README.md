@@ -28,7 +28,7 @@ To build your own profiles for other devices besides the included ones, use the 
 
 ## runperk
 This shell script is used to start the program, assuming that the code has been compiled into a runnable .jar program. The software can be run as desired from the Eclipse file structure. However, if you do wish to export the program and run it from a directory, move the following files to that directory, and ensure the the **runperk** file has the correct path to the exported .jar to start it:
-- **PerkRun-XX.jar**
+- **PerkRun-vXX.jar**
 - All **.pro** files
 - One **config.perk** file
 - **WebConsole.html**
